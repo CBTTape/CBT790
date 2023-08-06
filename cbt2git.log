@@ -1,0 +1,16 @@
+2023-08-06 07:35:26.190102 - Initialized conversion of CBT790
+2023-08-06 07:35:26.298121 - Received CBT.V505.FILE790.PDS from FILE790.XMI 
+2023-08-06 07:35:26.300150 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:35:26.301124 - Found $INST121.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/$INST121
+2023-08-06 07:35:26.302099 - Found $INST130.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/$INST130
+2023-08-06 07:35:26.302993 - Found $README.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/$README
+2023-08-06 07:35:26.304095 - Found @ABOUT.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/@ABOUT
+2023-08-06 07:35:26.305028 - Found @FILE790.txt (text/plain) in CBT.V505.FILE790.PDS, moved to PDS/@FILE790
+2023-08-06 07:35:26.471730 - Found SRS121.xmi (application/xmit) in CBT.V505.FILE790.PDS
+2023-08-06 07:35:26.498001   - Received to CBT790/V121.SRC
+2023-08-06 07:35:26.510640 - Found SRS121L.xmi (application/xmit) in CBT.V505.FILE790.PDS
+2023-08-06 07:35:26.523918   - Received RECFM=U data, stored XMIT file as CBT790/SRS121L.xmi
+2023-08-06 07:35:26.669691 - Found SRS130.xmi (application/xmit) in CBT.V505.FILE790.PDS
+2023-08-06 07:35:26.690904   - Received to CBT790/V130.SRC
+2023-08-06 07:35:26.702593 - Found SRS130L.xmi (application/xmit) in CBT.V505.FILE790.PDS
+2023-08-06 07:35:26.714561   - Received RECFM=U data, stored XMIT file as CBT790/SRS130L.xmi
